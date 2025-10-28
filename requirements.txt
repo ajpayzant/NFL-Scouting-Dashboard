@@ -1,0 +1,3 @@
+streamlit>=1.36
+polars>=1.30  # or pin 1.28.3 if you need cuDF compatibility
+nflreadpy>=0.4.9
